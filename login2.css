@@ -1,0 +1,32 @@
+.container
+{
+	padding-top: 2%;
+}
+body
+{
+	background: url("https://images.unsplash.com/photo-1566301738357-2e0cc60c4d40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+	background-size: cover;
+	background-position: center;
+}
+.form-group
+{
+	color: "golden";
+	text-shadow: 0px 8px 15px red;
+}
+h1
+{
+	text-transform: uppercase;
+	text-align: center;
+	color: red;
+	text-shadow: 0px 4px 15px orange,
+	0px 8px 20px yellow,
+	0px 14px 25px blue;
+}
+html
+{
+	height: 100%;
+}
+#emailHelp
+{
+	color: rgb(255,100,150);
+}
