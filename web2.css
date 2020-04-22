@@ -1,0 +1,16 @@
+body
+{
+	background:url('https://images.unsplash.com/photo-1555580168-9fb9646a8a1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80');
+	background-size: cover;
+	background-position: center;
+}
+.navbar-brand
+{
+	color: red;
+}
+.jumbotron
+{
+	padding-top: 1%;
+	text-align: center;
+	background:url('https://images.unsplash.com/photo-1579791931671-3a580558c342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+}
